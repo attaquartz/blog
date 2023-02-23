@@ -1,0 +1,4 @@
+../Core/Src/fm24cl04b.c:12:19:FM24CL04B_ReadBuffer	48	static
+../Core/Src/fm24cl04b.c:35:19:FM24CL04B_WriteBuffer	48	static
+../Core/Src/fm24cl04b.c:51:19:Read_FRAM	24	static
+../Core/Src/fm24cl04b.c:68:19:Write_FRAM	24	static
